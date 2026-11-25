@@ -1,8 +1,8 @@
-# schema-markup-generator
+# json-ld-markup-builder
 
 Generate JSON-LD schema markup for 12 schema types. Browser-only, no signup, no API calls.
 
-**Live demo:** https://0xelitesystem.github.io/schema-markup-generator/
+**Live demo:** https://0xelitesystem.github.io/json-ld-markup-builder/
 
 ![Screenshot of the schema markup generator interface](screenshot.png)
 
@@ -29,7 +29,7 @@ Paste your page details, pick a schema type, get a validated JSON-LD block ready
 
 ## Use
 
-Open `index.html` in any browser. Or visit `https://0xelitesystem.github.io/schema-markup-generator/`.
+Open `index.html` in any browser. Or visit `https://0xelitesystem.github.io/json-ld-markup-builder/`.
 
 1. Pick a schema type from the grid at top.
 2. Fill in fields. Required fields are marked with a coral asterisk.
@@ -71,7 +71,7 @@ Both are free. Both catch errors this tool cannot.
 
 ## Pairs with
 
-- [structured-data-examples](https://github.com/0xelitesystem/structured-data-examples): real-world JSON-LD examples for every type, ready to study and adapt
+- [json-ld-business-examples](https://github.com/0xelitesystem/json-ld-business-examples): real-world JSON-LD examples for every type, ready to study and adapt
 - [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder): generate llms.txt for AI engine discovery
 - [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor): audit pages for E-E-A-T signals including schema presence
 - [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer): score content passages for AI citation likelihood
@@ -83,8 +83,8 @@ Everything runs in your browser. No network requests, no analytics, no third-par
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/schema-markup-generator
-cd schema-markup-generator
+git clone https://github.com/0xelitesystem/json-ld-markup-builder
+cd json-ld-markup-builder
 ```
 
 Open `index.html` in any browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000/.
