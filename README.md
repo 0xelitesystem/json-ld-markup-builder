@@ -73,7 +73,7 @@ Both are free. Both catch errors this tool cannot.
 
 - [json-ld-business-examples](https://github.com/0xelitesystem/json-ld-business-examples): real-world JSON-LD examples for every type, ready to study and adapt
 - [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder): generate llms.txt for AI engine discovery
-- [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor): audit pages for E-E-A-T signals including schema presence
+- [page-trust-signals-auditor](https://github.com/0xelitesystem/page-trust-signals-auditor): audit pages for E-E-A-T signals including schema presence
 - [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer): score content passages for AI citation likelihood
 
 ## Privacy
